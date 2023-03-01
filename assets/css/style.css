@@ -60,3 +60,25 @@ h1{
     clear: both;
     opacity: 0.8;
 }
+#home-image{
+    margin: 10px;
+    height: 680PX;
+    width: 100%;
+    background: url('../images/home-image.png') no-repeat center center;
+    overflow: hidden;
+}
+#teacher_image{
+    margin: 10px;
+    height: 400px;
+    width: 100%;
+    background: url('../images/teacher-image.png') no-repeat center center;
+    overflow: hidden;
+}
+
+#learner_image{
+    margin: 10px;
+    height: 400px;
+    width: 100%;
+    background: url('../images/learner-image.gif') no-repeat center center;
+    overflow: hidden;
+}
