@@ -82,3 +82,8 @@ h1{
     background: url('../images/learner-image.gif') no-repeat center center;
     overflow: hidden;
 }
+#service{
+    margin: 0 80px;
+    width: 90%;
+    height: 100Px;
+}
