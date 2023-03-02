@@ -2,6 +2,8 @@ Learning Visual
 
 This is the educational website. It is where learners  will be able to find tutors for their subjects. Learners will be able to get individual attention from an experienced educators who will focus on the skills that needs to be developed and any gaps in their understanding. With regular contact with the tutor, learners will benefit not only for strengthening their academic abilities, but also for ensuring that learning becomes their priority. Tutors who are interested in tutoring will make use of the site as well.
 
+![alt text](assets/images/20230302_032452.jpg)
+
 Features
 
 . There are three navigation bar 
