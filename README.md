@@ -31,8 +31,13 @@ Testing
 I used Validator testing
 
 . For HTML - W3C showed the warnings. there were no errors found.
+
+
+![alt text](/workspace/learning-visual/assets/images/validatehtml.png)
 .For CSS - no errors were found during testing process.
 
+
+![alt text](/workspace/learning-visual/assets/images/validatecss.png)
 unfixed Bugs -were not fixed because of the time.
 
 Deploying in the Github following these steps:
