@@ -113,3 +113,43 @@ div form, div h2 {
     margin: 10px;
     font-size: 110%;
 }
+#course-section{
+ 
+    height: 200px;
+    margin: 10px;
+    overflow: hidden;
+}
+#in-store{
+    text-align: left;
+    margin: 0 10px;
+    font-size: 150%;
+}
+#english-course{
+    padding-top: 20px;
+    width: 32%;
+    float: left;
+    margin-left: 10px;
+}
+#math-course{
+    padding-top: 20px;
+    width: 32%;
+    float: right;
+    margin-right: 10px;
+}
+#programming-course{
+    padding-top: 20px;
+    margin: 0 auto;
+    width: 32%;
+}
+hr{
+    border-top: 1px solid black;
+    width:100%;
+    margin: 5px 0;
+}
+.subjet{
+    width: 60%;
+    float: left;
+    line-height: 10px;
+    clear: both;
+    margin-bottom: 1px;
+}
