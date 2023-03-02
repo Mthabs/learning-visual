@@ -34,10 +34,14 @@ I used Validator testing
 
 
 ![alt text](assets/images/validatehtml.png)
+
+
 .For CSS - no errors were found during testing process.
 
 
 ![alt text](assets/images/validatecss.png)
+
+
 unfixed Bugs -were not fixed because of the time.
 
 Deploying in the Github following these steps:
