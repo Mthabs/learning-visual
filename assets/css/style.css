@@ -153,3 +153,21 @@ hr{
     clear: both;
     margin-bottom: 1px;
 }
+footer{
+    height: 20px;
+    
+}
+.social-media{
+    text-align: center;
+    background-color: #bebebe;
+}
+.social-media > li{
+display: inline;
+}
+.social-media img{
+    font-size: 30%;
+    margin: 1%;
+    padding: 1%;
+    height: 30px;
+    width: 30px;
+}
