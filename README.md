@@ -40,12 +40,14 @@ I used Validator testing
 
 
 ![alt text](assets/images/validatehtml.png)
+![alt text](assets/images/validatehtml.png)
+![alt text](assets/images/validatehtml.png)
 
 
 .For CSS - no errors were found during testing process.
 
 
-![alt text](assets/images/validatecss.png)
+![alt text](assets/images/cssvalidatorw3c.png)
 
 
 unfixed Bugs -were not fixed because of the time.
