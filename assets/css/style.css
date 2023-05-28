@@ -70,30 +70,30 @@ h1{
     font-size: 80%;
     letter-spacing: 1px;
     float:left;
-    margin: 30px 20px;
+    margin: 20px 5px;
     overflow: hidden; 
     clear: both;
     opacity: 0.8;
 }
 #home-image{
     margin: 10px;
-    height: 680PX;
+    height: 100vh;
     width: 100%;
     background: url('../images/home-image.png') no-repeat center center;
     overflow: hidden;
 }
 #teacher_image{
     margin: 10px;
-    height: 400px;
+    height: 50vh;
     width: 100%;
     background: url('../images/teacher-image.png') no-repeat center center;
     overflow: hidden;
 }
 
 #learner_image{
-    margin: 10px;
-    height: 400px;
-    width: 100%;
+    height: 60vh;
+    width: 70%;
+    margin: auto;
     background: url('../images/learner-image.gif') no-repeat center center;
     overflow: hidden;
 }
