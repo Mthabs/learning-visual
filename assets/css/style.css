@@ -7,8 +7,21 @@
     color: purple;
 }
 body{
+    margin: 5px;
+    padding: 5px;
     font-family:Montserrat, sans-serif;
     background-color: lightgrey;
+    border:2px solid black;
+}
+#header{
+    border: 2px solid red;
+    width: 90%;
+    height: 10vh;
+    margin: auto;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 #nav-bar #name{
