@@ -85,13 +85,13 @@
           <div id="learner-details">
               <h2>Please complete the form below.</h2>
               <form>
-                  <legend><strong>Personal information:</strong></legend><br>
+                  <h2>Personal information:</h2><br>
                   <label for="fname">1. First name:</label>
                   <input type="text" id="fname" name="fname" required>
                   <label for="lname">2. Last name:</label>
                   <input type="text" id="lname" name="lname" required><br><br>
                   <label for="Qualifications">3. Enter your Qualifications.</label><br>
-                  <textarea name="Qualifications" rows="1" cols="60"></textarea>
+                  <textarea name="Qualifications" id="Qualifications" rows="1" cols="60"></textarea>
                   <label for="subjects">4. Select a subject</label>
                   <select id="subjects" name="subjects">
                       <option value="English">English</option>
@@ -104,7 +104,7 @@
                   <label for="email">6. Put your email address</label>
                   <input type="email" id="email" name="email" placeholder="example@gmail.com" pattern="[example]{@gmail}-[com]"><br><br>
                   <label for="message">7. You can text us below or use our contact details for more information.</label><br>
-                  <textarea name="massage" rows="2" cols="68"></textarea>
+                  <textarea name="massage" id="message" rows="2" cols="68"></textarea>
               </form>
           </div>
         </section>
