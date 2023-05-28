@@ -39,9 +39,11 @@ I used Validator testing
 . For HTML - W3C showed the warnings. there were no errors found.
 
 
-![alt text](assets/images/validatehtml.png)
-![alt text](assets/images/validatehtml.png)
-![alt text](assets/images/validatehtml.png)
+![alt text](assets/images/learner-validator.png)
+
+![alt text](assets/images/index-validator.png)
+
+![alt text](assets/images/tutor-validator.png)
 
 
 .For CSS - no errors were found during testing process.
