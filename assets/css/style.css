@@ -183,3 +183,21 @@ display: inline;
     height: 30px;
     width: 30px;
 }
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+    
+}
+@media (min-width: 769px) and (max-width: 1200px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media (min-width: 1201px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
