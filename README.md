@@ -1,8 +1,14 @@
 Learning Visual
 
-This is the educational website. It is where learners  will be able to find tutors for their subjects. Learners will be able to get individual attention from an experienced educators who will focus on the skills that needs to be developed and any gaps in their understanding. With regular contact with the tutor, learners will benefit not only for strengthening their academic abilities, but also for ensuring that learning becomes their priority. Tutors who are interested in tutoring will make use of the site as well.
+Learning Visual is a learning platform aimed at providing a dynamic and interactive space for tutors and learners. It offers a comprehensive range of educational resources and facilitates virtual tutoring sessions, enabling learners to enhance their skills and knowledge in various subjects. The website is designed to cater to individuals of all ages and educational backgrounds who are seeking effective and engaging learning experiences.
 
-![alt text](assets/images/20230302_032452.jpg)
+Responsiveness 
+
+![alt text](assets/images/responsive768.png)
+
+![alt text](assets/images/responsive820.png)
+
+![alt text](assets/images/responsive1280.png)
 
 Features
 

@@ -11,10 +11,8 @@ body{
     padding: 5px;
     font-family:Montserrat, sans-serif;
     background-color: lightgrey;
-    border:2px solid black;
 }
 #header{
-    border: 2px solid red;
     width: 90%;
     height: 10vh;
     margin: auto;
@@ -59,7 +57,6 @@ h1{
     background-color: #a9a9a9;   
 }
 #main_body{
-    border: 2px solid orange;
     width: 90%;
     height: 160vh;
     margin: auto;
@@ -186,8 +183,7 @@ display: inline;
 @media (max-width: 768px) {
     body {
         font-size: 14px;
-    }
-    
+    }   
 }
 @media (min-width: 769px) and (max-width: 1200px) {
     .container {
