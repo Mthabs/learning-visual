@@ -128,15 +128,13 @@ div form, div h2 {
     font-size: 110%;
 }
 #course-section{
- 
-    height: 200px;
-    margin: 10px;
+    height: 40vh;
     overflow: hidden;
 }
 #in-store{
     text-align: left;
     margin: 0 10px;
-    font-size: 150%;
+    font-size: 110%;
 }
 #english-course{
     padding-top: 20px;
