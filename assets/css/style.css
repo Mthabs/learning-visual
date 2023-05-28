@@ -137,13 +137,13 @@ div form, div h2 {
     font-size: 110%;
 }
 #english-course{
-    padding-top: 20px;
+    padding-top: 10px;
     width: 32%;
     float: left;
     margin-left: 10px;
 }
 #math-course{
-    padding-top: 20px;
+    padding-top: 10px;
     width: 32%;
     float: right;
     margin-right: 10px;
