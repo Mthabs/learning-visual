@@ -106,7 +106,7 @@ td{
     font-size: 70%;
     padding: 10px;
 }
-#learner-details{
+.personal_details{
     font-family: Lato, sans-serif;
     font-size: 80%;
     letter-spacing: 1px;
@@ -116,44 +116,32 @@ div form, div h2 {
     margin: 10px;
     font-size: 110%;
 }
-#course-section{
-    height: 40vh;
+.course-section{
+    height: auto; 
     overflow: hidden;
+    padding: 20px;
 }
-#in-store{
+.course-section h3{
     text-align: left;
-    margin: 0 10px;
+    margin: 0 10px 20px 10px; 
     font-size: 110%;
 }
-#english-course{
-    padding-top: 10px;
-    width: 32%;
-    float: left;
-    margin-left: 10px;
+.subjets{
+    display: flex;
+    justify-content: space-between;
 }
-#math-course{
-    padding-top: 10px;
-    width: 32%;
-    float: right;
-    margin-right: 10px;
-}
-#programming-course{
-    padding-top: 20px;
-    margin: 0 auto;
-    width: 32%;
+.english-course, .programming-course, .math-course{
+    flex: 1; 
+    box-sizing: border-box;  
+    padding: 10px;
+    margin: 0 5px;
 }
 hr{
     border-top: 1px solid black;
     width:100%;
     margin: 5px 0;
 }
-.subjet{
-    width: 60%;
-    float: left;
-    line-height: 10px;
-    clear: both;
-    margin-bottom: 1px;
-}
+
 footer{
     height: 20px;
     
