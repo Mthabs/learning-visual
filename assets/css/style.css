@@ -116,29 +116,30 @@ div form, div h2 {
     margin: 10px;
     font-size: 110%;
 }
-.course-section{
-    height: auto; 
-    overflow: hidden;
+.course-section {
     padding: 20px;
 }
-.course-section h3{
+
+.course-section h3 {
     text-align: left;
-    margin: 0 10px 20px 10px; 
+    margin: 0 10px 20px 10px;
     font-size: 110%;
 }
-.subjets{
+
+.subjects {
     display: flex;
-    justify-content: space-between;
 }
-.english-course, .programming-course, .math-course{
+
+.course-box {
     flex: 1; 
-    box-sizing: border-box;  
     padding: 10px;
-    margin: 0 5px;
+    box-sizing: border-box; 
+    margin: 0 10px; 
 }
-hr{
+
+hr {
     border-top: 1px solid black;
-    width:100%;
+    width: 100%;
     margin: 5px 0;
 }
 
