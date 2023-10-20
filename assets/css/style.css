@@ -12,92 +12,84 @@ body{
     font-family:Montserrat, sans-serif;
     background-color: lightgrey;
 }
-#header{
+.header{
     width: 90%;
     height: 10vh;
     margin: auto;
     margin-top: 5px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
 }
-
-#nav-bar #name{
-    line-height: 75px; 
-}
-
-#nav-bar li{
-    display: inline;
-    list-style-type: none; 
-}
-#nav-bar a{
-    text-decoration: none;
-    color: inherit;
-    padding: 5px;
-}
-#nav-bar a:hover{
-    background-color: #808080;
-    color: #ffff;
-}
-#name{
+  
+.logo{
     order: 1;    
-     font-size: 280%;
+    font-size: 280%;
+    font-family: Lato, sans-serif;
+    opacity: 0.8;  
  }
- #nav-bar{
+ .nav-bar{
     order: 2;
     font-family: Lato, sans-serif;
     font-size: 140%;
     letter-spacing: 1px;
 }
-h1{
-    font-family: Lato, sans-serif;
-    opacity: 0.8;  
+
+.nav-bar .logo{
+    line-height: 75px; 
 }
+
+.nav-bar li{
+    display: inline;
+    list-style-type: none; 
+}
+.nav-bar a{
+    text-decoration: none;
+    color: inherit;
+    padding: 5px;
+}
+.nav-bar a:hover{
+    background-color: #808080;
+    color: #ffff;
+}
+
 .active{
     background-color: #a9a9a9;   
 }
-#main_body{
+
+.main_body{
     width: 90%;
-    height: 160vh;
+    height: auto;   /* Changed this from a fixed height to auto to fit content */
     margin: auto;
+    display: flex;  /* Flexbox enabled */
+    flex-direction: column; /* Stack children vertically */
+    
+    gap: 20px;  /* Space between flex items */
 }
 
-#offices, #why-us, #tutor-benefts{
+.offices, .your-beneft{
     font-family: Lato, sans-serif;
     font-size: 80%;
     letter-spacing: 1px;
-    float:left;
-    margin: 20px 5px;
-    overflow: hidden; 
-    clear: both;
+    margin: 10px 5px;
+    width: 80%;   /* Adjust this as needed */
     opacity: 0.8;
 }
-#home-image{
-    margin: 10px;
-    height: 100vh;
-    width: 100%;
-    background: url('../images/home-image.png') no-repeat center center;
-    overflow: hidden;
-}
-#teacher_image{
+.image{
     margin: 10px;
     height: 50vh;
-    width: 100%;
-    background: url('../images/teacher-image.png') no-repeat center center;
+    width: 80%;  /* Adjusted width for better layout in column */
+    background: no-repeat center center;
     overflow: hidden;
+    display: flex;
+    justify-content: center;  /* Center the image */
+    align-items: center;  /* Center children horizontally */
 }
 
-#learner_image{
-    height: 60vh;
-    width: 70%;
-    margin: auto;
-    background: url('../images/learner-image.gif') no-repeat center center;
-    overflow: hidden;
-}
-#service{
-    margin: 0 80px;
-    width: 90%;
-    height: 10vh;
+.service{
+    margin: 10px 40px;
+    width: 80%;
+    text-align: center;  /* Center text content */
 }
 table, th, td{
     border: 2px solid #777777;
@@ -180,20 +172,18 @@ display: inline;
     height: 30px;
     width: 30px;
 }
-@media (max-width: 768px) {
-    body {
-        font-size: 14px;
-    }   
+@media(min-width:901px) {
+
 }
-@media (min-width: 769px) and (max-width: 1200px) {
-    .container {
-        display: flex;
-        flex-direction: column;
-    }
+@media(min-width:770px) and (max-width:900px){
+
 }
-@media (min-width: 1201px) {
-    .container {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-    }
+@media (min-width:481px) and (max-width:769px) {
+
+}
+@media (min-width:321px) and (max-width:480px) {
+    
+}
+@media (max-width:320px){
+    
 }
