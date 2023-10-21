@@ -345,6 +345,11 @@ display: inline;
     .offices{
         font-size: 40%;
     }
+    .your-beneft {
+        font-size: 50%;
+        margin: 0px;
+        width: 100%;
+    }
     .image{
         height: 20vh;
         width: 95%;
