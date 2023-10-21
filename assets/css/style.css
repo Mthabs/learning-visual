@@ -276,10 +276,10 @@ display: inline;
     }
     .session-attendace table, th, td {
         border: 1px solid #777777; 
-        font-size: 65%;
-        width: 100%; 
+        font-size: 80%;
+        width: auto; 
         margin: 0px;
-        padding: 3px;
+        padding: 5px;
     }
 
     .session-prices table, th, td {
