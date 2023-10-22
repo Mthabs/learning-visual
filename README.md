@@ -94,10 +94,11 @@ For **Content**, here are the links i used:
 4. why us - https://collegesofdistinction.com/advice/benefits-of-tutoring/
 5. why tutor - https://tutorful.co.uk/blog/4-reasons-you-should-consider-becoming-a-tutor
 
-For **media**, here is the link i used:
+For **media**, here are the links i used:
 
-https://www.canva.com/design/DAFbgBJ3jpQ/z_kBbYuPNMIhDFXQdtOOrQ/edit#
+- https://www.canva.com/design/DAFbgBJ3jpQ/z_kBbYuPNMIhDFXQdtOOrQ/edit#
+- https://www.pexels.com/search/education/
 
 #### Conclusion
 
-Join Learning Visual today and embark on an educational journey that is personalized, flexible, and backed by a commitment to your success. Learning Visual: Empowering Education.
+- Join Learning Visual today and embark on an educational journey that is personalized, flexible, and backed by a commitment to your success. Learning Visual: Empowering Education.
