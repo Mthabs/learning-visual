@@ -150,6 +150,21 @@ div form, div h2 {
     width: 24%; 
     max-width: 100%; 
 }
+.purple-button{
+    background-color: purple;
+    color: lightgrey;
+    opacity: 0.6;
+}
+
+.purple-button:hover {
+    background-color: lightgrey;
+    color: purple;
+}
+
+.purple-button:active {
+    background-color: purple;
+    color: lightgrey;
+}
 .course-section {
     padding: 20px;
 }
