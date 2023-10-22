@@ -50,22 +50,26 @@
 
 #### Testing
 
-I used Validator testing
+**Validator testing**
 
-. For HTML - W3C showed the warnings. there were no errors found.
+. For HTML - W3C showed only Error: A charset attribute on a meta element found after the first 1024 bytes.
+
+At line 650, column 21
+
+ charset="utf-8"><link rel="ic.
 
 
-![alt text](assets/images/learner-validator.png)
+![alt text](assets/images/index_validator.png)
 
-![alt text](assets/images/index-validator.png)
+![alt text](assets/images/learner_validator.png)
 
-![alt text](assets/images/tutor-validator.png)
+![alt text](assets/images/tutor_validator.png)
 
 
 .For CSS - no errors were found during testing process.
 
 
-![alt text](assets/images/cssvalidatorw3c.png)
+![alt text](assets/images/css_validator.png)
 
 
 #### Unfixed Bugs
