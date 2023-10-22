@@ -3,9 +3,9 @@
 **Overview:** Welcome to Learning Visual, the future of online learning. Learning Visual is a learning platform aimed at providing a dynamic and interactive space for tutors and learners. It offers a comprehensive range of educational resources and facilitates virtual tutoring sessions, enabling learners to enhance their skills and knowledge in various subjects. The website is designed to cater to individuals of all ages and educational backgrounds who are seeking effective and engaging learning experiences. We're on a mission to redefine education by providing personalized, top-tier learning experiences. Join us and unlock your full potential with Learning Visual.
 
 
-![alt text](assets/images/Screenshot 2023-10-22 173048.png)
+![alt text](assets/images/nesthubtutor.png?raw=true)
 
-![alt text](assets/images/Screenshot 2023-10-22 173202.png)
+![alt text](assets/images/nesthublearner.png?raw=true)
 
 
 ## Key Features:
@@ -18,7 +18,7 @@
 
 **Learner Page:** Details the advantages and perks of enrolling with Learning Visual.
 
-![alt text](assets/images/Screenshot 2023-10-22 182344.png)
+![alt text](assets/images/navigations.png)
 
 #### Our Services
 
