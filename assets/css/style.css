@@ -101,15 +101,15 @@ body{
 
 
 .home-image {
-    background-image: url('assets/images/home_imagee.jpg');
+    background-image: url('../images/hom-img.jpg');
 }
 
 .learner-image {
-    background-image: url('assets/images/learner_imagee.jpg');
+    background-image: url('../images/learn_img.jpg');
 }
 
 .tutor-image {
-    background-image: url('assets/images/teacher-image.png');
+    background-image: url('../images/teacher-image.png');
 }
 
 .service{
