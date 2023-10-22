@@ -76,17 +76,40 @@ body{
     width: 80%;   
     opacity: 0.8;
 }
-.image{
+@keyframes zoomOut {
+    0% {
+        transform: scale(1.5);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.image {
     margin: 10px;
     height: 50vh;
     width: 80%;  
-    background: no-repeat center center;
+    background-size: cover; 
+    background-repeat: no-repeat;
     background-color: lightgrey;
     overflow: hidden;
     display: flex;
     justify-content: center;  
-    align-items: center; 
-    
+    align-items: center;   
+    animation: zoomOut 3s ease forwards; 
+}
+
+
+.home-image {
+    background-image: url('assets/images/home_imagee.jpg');
+}
+
+.learner-image {
+    background-image: url('assets/images/learner_imagee.jpg');
+}
+
+.tutor-image {
+    background-image: url('assets/images/teacher-image.png');
 }
 
 .service{
@@ -178,6 +201,8 @@ display: inline;
     .image{
         height: 40vh;
         width: 98%;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
     #footer{
         height: 7vh;
@@ -201,6 +226,8 @@ display: inline;
     .image{
         height: 40vh;
         width: 98%;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
     #footer{
         height: 8vh;
@@ -216,6 +243,7 @@ display: inline;
     
 }
 @media(min-width:770px) and (max-width:900px){
+
     .header{
         height: 4vh;
     }
@@ -242,6 +270,8 @@ display: inline;
     .image{
         height: 30vh;
         width: 99%;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
     
 
@@ -273,6 +303,8 @@ display: inline;
     .image{
         height: 40vh;
         width: 95%;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
     .session-attendace table, th, td {
         border: 1px solid #777777; 
@@ -335,6 +367,8 @@ display: inline;
     .image{
         height: 20vh;
         width: 95%;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
 
     .session-attendace table, th, td {
@@ -409,6 +443,8 @@ display: inline;
     .image{
         height: 20vh;
         width: 95%;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
     .session-attendace table, th, td {
         border: 1px solid #777777; 
