@@ -32,6 +32,8 @@
 
 - Convenient links to Learning Visual's active social media profiles. These links open in new tabs, ensuring easy access for users to stay connected and engaged with us.
 
+![alt text](assets/images/footer.png)
+
 #### Tutor Page:
 
 - **Availability Table:** Tutors can indicate their available times for sessions, providing transparency to potential learners.
