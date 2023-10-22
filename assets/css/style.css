@@ -198,32 +198,10 @@ display: inline;
     width: 7%;
 }
 @media(min-width:1200px){
-    .header{
-        height: 4vh;
-    }
-    .header .main_body{
-        width: 100%;
-        margin: 0;
-    }
-    .logo {
-        font-size: 2rem;
-    }
 
-    .nav-bar {
-        font-size: 1.3rem; 
-    }
-    .nav-bar li {
-        margin: 0; 
-        padding: 0;  
-    }
-    .offices, .your-beneft{
-        font-size: 100%;
-        margin: 0px;
-        width: 100%;
-    }
     .image{
-        height: 60vh;
-        width: 100%;
+        height: 95vh;
+        width: 95%;
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -254,32 +232,10 @@ display: inline;
     }
 }
 @media(min-width:901px)and (max-width:1200px) {
-    .header{
-        height: 4vh;
-    }
-    .header .main_body{
-        width: 100%;
-        margin: 0;
-    }
-    .logo {
-        font-size: 2rem;
-    }
 
-    .nav-bar {
-        font-size: 1.3rem; 
-    }
-    .nav-bar li {
-        margin: 0; 
-        padding: 0;  
-    }
-    .offices, .your-beneft{
-        font-size: 100%;
-        margin: 0px;
-        width: 100%;
-    }
     .image{
-        height: 45vh;
-        width: 100%;
+        height: 80vh;
+        width: 95%;
         background-size: cover;
         background-repeat: no-repeat;
     }

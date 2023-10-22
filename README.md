@@ -1,38 +1,54 @@
-Learning Visual
+# Learning Visual
 
-Learning Visual is a learning platform aimed at providing a dynamic and interactive space for tutors and learners. It offers a comprehensive range of educational resources and facilitates virtual tutoring sessions, enabling learners to enhance their skills and knowledge in various subjects. The website is designed to cater to individuals of all ages and educational backgrounds who are seeking effective and engaging learning experiences.
+**Overview:** Welcome to Learning Visual, the future of online learning. Learning Visual is a learning platform aimed at providing a dynamic and interactive space for tutors and learners. It offers a comprehensive range of educational resources and facilitates virtual tutoring sessions, enabling learners to enhance their skills and knowledge in various subjects. The website is designed to cater to individuals of all ages and educational backgrounds who are seeking effective and engaging learning experiences. We're on a mission to redefine education by providing personalized, top-tier learning experiences. Join us and unlock your full potential with Learning Visual.
 
-Responsiveness 
 
-![alt text](assets/images/responsive768.png)
+![alt text](assets/images/Screenshot 2023-10-22 173048.png)
 
-![alt text](assets/images/responsive820.png)
+![alt text](assets/images/Screenshot 2023-10-22 173202.png)
 
-![alt text](assets/images/responsive1280.png)
 
-Features
+## Key Features:
 
-. There are three navigation bar 
+#### Three Navigation Bars
 
-- The home page which is the introduction section. This page gives an over view of the webisite. There  
-- The tutor page explains the role and the benefits of bieng a tutor.
-- learner page details the benefits of enrolling with us.
+**Home Page:** The introduction section that provides an overview of the entire website.
 
-our service - explains what we are doing and how are we different from others.
+**Tutor Page:** Explores the role of a tutor and the invaluable benefits of becoming one.
 
-subjects - this section list the subjects we are offering and the banefits of doing these subjects.
+**Learner Page:** Details the advantages and perks of enrolling with Learning Visual.
 
-The footer - this section has the links for social network. the links display on a new tab.
+![alt text](assets/images/Screenshot 2023-10-22 182344.png)
 
-In the tutor page.
-. There is a table where the tutor has to indicate the times her/she will be available for the sessions.
-. There is also a form that the tutor must fill in for signing up.
+#### Our Services
 
-In the learner page
-. There is a table showing the cost per hour
-. The is a form that the learner who wants to enrol with us must fill in.
+- An in-depth explanation of Learning Visual's unique approach and how it distinguishes itself from other educational platforms. We outline our commitment to           personalized learning, flexible schedules, and guaranteed success.
 
-Testing
+#### Subjects
+
+- A comprehensive list of subjects offered on our platform, accompanied by detailed explanations of the benefits of studying each subject. We highlight how these subjects can enhance career prospects and personal growth.
+
+#### Footer with Social Media Links
+
+- Convenient links to Learning Visual's active social media profiles. These links open in new tabs, ensuring easy access for users to stay connected and engaged with us.
+
+#### Tutor Page:
+
+- **Availability Table:** Tutors can indicate their available times for sessions, providing transparency to potential learners.
+- **Sign-Up Form:** A streamlined form for tutors to complete their registration, helping them become part of the Learning Visual community.
+
+![alt text](assets/images/Screenshot 2023-10-22 175903.png)
+![alt text](assets/images/Screenshot 2023-10-22 173419.png)
+
+#### Learner Page:
+
+- **Cost per Hour Table:** Displays the cost per hour for various subjects, allowing learners to make informed decisions.
+- **Enrollment Form:** A user-friendly form for learners who wish to enroll with us. This form collects essential information to help us understand their learning needs.
+
+![alt text](assets/images/Screenshot 2023-10-22 183254.png)
+![alt text](assets/images/Screenshot 2023-10-22 183445.png)
+
+#### Testing
 
 I used Validator testing
 
@@ -52,24 +68,32 @@ I used Validator testing
 ![alt text](assets/images/cssvalidatorw3c.png)
 
 
-unfixed Bugs -were not fixed because of the time.
+#### Unfixed Bugs
 
-Deploying in the Github following these steps:
+- There were no bugs that were detected by the validators, only the warnings were found.
 
-In the Github repository, click the settings icon. on the pages there is branch. in the branch the drop-down menue has main. select main and the page refresh the link display. 
+#### Deployment
+The site was deployed to GitHub pages. The steps to deploy are as follows:
 
-Credits
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Main Branch
+- Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- The live link can be found here - https:
 
-For Content, here are the links i used:
+#### Credits
+
+For **Content**, here are the links i used:
 
 1. English - https://www.studiocambridge.co.uk/why-it-is-important-to-learn-english/#:~:text=English%20is%20the%20language%20of,or%20of%20finding%20work%20abroad.
-2.programming - https://bootcamp.berkeley.edu/blog/what-is-coding-key-advantages/#:~:text=It%20hones%20problem%2Dsolving%20and,often%20cross%2Ddisciplinary%20and%20collaborative.
+2. programming - https://bootcamp.berkeley.edu/blog/what-is-coding-key-advantages/#:~:text=It%20hones%20problem%2Dsolving%20and,often%20cross%2Ddisciplinary%20and%20collaborative.
 3. mathametics - https://www.prodigygame.com/main-en/blog/why-is-math-important/
 4. why us - https://collegesofdistinction.com/advice/benefits-of-tutoring/
-5.why tutor - https://tutorful.co.uk/blog/4-reasons-you-should-consider-becoming-a-tutor
+5. why tutor - https://tutorful.co.uk/blog/4-reasons-you-should-consider-becoming-a-tutor
 
-For media, here is the link i used:
+For **media**, here is the link i used:
 
 https://www.canva.com/design/DAFbgBJ3jpQ/z_kBbYuPNMIhDFXQdtOOrQ/edit#
 
+#### Conclusion
 
+Join Learning Visual today and embark on an educational journey that is personalized, flexible, and backed by a commitment to your success. Learning Visual: Empowering Education.
