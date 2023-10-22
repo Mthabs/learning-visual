@@ -3,9 +3,9 @@
 **Overview:** Welcome to Learning Visual, the future of online learning. Learning Visual is a learning platform aimed at providing a dynamic and interactive space for tutors and learners. It offers a comprehensive range of educational resources and facilitates virtual tutoring sessions, enabling learners to enhance their skills and knowledge in various subjects. The website is designed to cater to individuals of all ages and educational backgrounds who are seeking effective and engaging learning experiences. We're on a mission to redefine education by providing personalized, top-tier learning experiences. Join us and unlock your full potential with Learning Visual.
 
 
-![alt text](assets/images/nesthubtutor.png?raw=true)
+![alt text](assets/images/nesthubtutor.png)
 
-![alt text](assets/images/nesthublearner.png?raw=true)
+![alt text](assets/images/nesthublearner.png)
 
 
 ## Key Features:
@@ -37,16 +37,16 @@
 - **Availability Table:** Tutors can indicate their available times for sessions, providing transparency to potential learners.
 - **Sign-Up Form:** A streamlined form for tutors to complete their registration, helping them become part of the Learning Visual community.
 
-![alt text](assets/images/Screenshot 2023-10-22 175903.png)
-![alt text](assets/images/Screenshot 2023-10-22 173419.png)
+![alt text](assets/images/iphonetutor.png)
+![alt text](assets/images/iphonepro.png)
 
 #### Learner Page:
 
 - **Cost per Hour Table:** Displays the cost per hour for various subjects, allowing learners to make informed decisions.
 - **Enrollment Form:** A user-friendly form for learners who wish to enroll with us. This form collects essential information to help us understand their learning needs.
 
-![alt text](assets/images/Screenshot 2023-10-22 183254.png)
-![alt text](assets/images/Screenshot 2023-10-22 183445.png)
+![alt text](assets/images/hublearner.png)
+![alt text](assets/images/hubnest.png)
 
 #### Testing
 
