@@ -101,11 +101,11 @@ body{
 
 
 .home-image {
-    background-image: url('../images/hom-img.jpg');
+    background-image: url('../images/home_img.jpg');
 }
 
 .learner-image {
-    background-image: url('../images/learn_img.jpg');
+    background-image: url('../images/learner_imagee.jpg');
 }
 
 .tutor-image {
@@ -143,11 +143,11 @@ div form, div h2 {
     font-size: 110%;
 }
 #message {
-    width: 95%; 
+    width: 44%; 
     max-width: 95%; 
 }
 #Qualifications{
-    width: 95%; 
+    width: 24%; 
     max-width: 95%; 
 }
 .course-section {
@@ -199,7 +199,7 @@ display: inline;
 }
 @media(min-width:1200px){
     .image{
-        height: 40vh;
+        height: 98vh;
         width: 98%;
         background-size: cover;
         background-repeat: no-repeat;
@@ -240,7 +240,7 @@ display: inline;
         height: 6vh;
         width: 5%;
     }
-    
+  
 }
 @media(min-width:770px) and (max-width:900px){
 
@@ -272,6 +272,14 @@ display: inline;
         width: 99%;
         background-size: cover;
         background-repeat: no-repeat;
+    }
+    #message {
+        width: 83%; 
+        max-width: 95%; 
+    }
+    #Qualifications{
+        width: 44%; 
+        max-width: 95%; 
     }
     
 
@@ -324,6 +332,14 @@ display: inline;
     }
     #subjects{
         font-size: 85%;
+    }
+    #message {
+        width: 87%; 
+        max-width: 95%; 
+    }
+    #Qualifications{
+        width: 44%; 
+        max-width: 95%; 
     }
     input{
         font-size: 85%;
@@ -395,6 +411,14 @@ display: inline;
     }
     input{
         font-size: 75%;
+    }
+    #message {
+        width: 94%; 
+        max-width: 95%; 
+    }
+    #Qualifications{
+        width: 66%; 
+        max-width: 95%; 
     }
     .service {
         margin: 0;
