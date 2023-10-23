@@ -212,6 +212,11 @@ display: inline;
     height: 3vh;
     width: 7%;
 }
+
+.page_not_found .thankyou{
+    align-items: center;
+}
+
 @media(min-width:1200px){
 
     .image{
