@@ -101,8 +101,6 @@ body{
     align-items: center;   
     animation: zoomOut 3s ease forwards; 
 }
-
-
 .home-image {
     background-image: url('../images/home_img.png');
 }
@@ -215,20 +213,7 @@ display: inline;
     height: 3vh;
     width: 7%;
 }
-.center-container {
-    display: grid;
-    place-items: center;
-    height: calc(100vh - 60px - 1rem);  
-    padding: 0;
-    margin: 0;
-}
 
-.thankyou, .page_not_found {
-    text-align: center;
-    background-color: lightgrey;  
-    padding: 1rem;
-    border-radius: 8px;
-}
 @media(min-width:1200px){
 
     .image{
