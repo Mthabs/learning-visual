@@ -26,18 +26,14 @@ body{
     align-items: flex-end;
 }
   
-.logo {
-    order: 1;
+.logo{
+    order: 1;    
     font-size: 2.8rem;
-    font-family: 'Lato', sans-serif;
-    opacity: 0.8;
-    display: flex; 
-    align-items: center; 
-}
-
-.logo i {
-    font-size: 2.5rem;  
-    margin-left: 10px;
+    font-family: Lato, sans-serif;
+    opacity: 0.8;  
+ }
+ .logo i {
+    font-size: 1.4rem;    
 }
  .nav-bar{
     order: 2;
@@ -299,9 +295,12 @@ display: inline;
     .logo {
         font-size: 2rem;
     }
+    .logo i {
+        font-size: 1.2rem; 
+    }
 
     .nav-bar {
-        font-size: 1.3rem; 
+        font-size: 1.2rem; 
     }
     .nav-bar li {
         margin: 0; 
@@ -339,6 +338,9 @@ display: inline;
     }
     .logo {
         font-size: 1.5rem;
+    }
+    .logo i {
+        font-size: 1rem;  
     }
 
     .nav-bar {
@@ -412,9 +414,12 @@ display: inline;
     .logo {
         font-size: 1rem;
     }
+    .logo i {
+        font-size: 0.5rem;  
+    }
 
     .nav-bar {
-        font-size: 0.6rem; 
+        font-size: 0.5rem; 
     }
     .nav-bar li {
         margin: 0; 
@@ -476,9 +481,7 @@ display: inline;
         padding: 2px;
         font-size: 12px;
     }
- 
 }
-
 
 @media (max-width:320px){
 
@@ -490,11 +493,13 @@ display: inline;
         margin: 0;
     }
     .logo {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
-
+    .logo i {
+        font-size: 0.4rem;
+    }
     .nav-bar {
-        font-size: 0.5rem; 
+        font-size: 0.4rem; 
     }
     .nav-bar li {
         margin: 0; 
